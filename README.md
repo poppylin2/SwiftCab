@@ -4,7 +4,7 @@
     <img src="https://i.ibb.co/Bf04Hpd/Readme-thumbnail-from-JS-Mastery.png" alt="Project Banner">
   <br />
 
-  <h3 align="center">Swift - Cab Clone</h3>
+  <h3 align="center">SwiftCab - Uber Clone</h3>
   
   <div>
     <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="React Native" />
